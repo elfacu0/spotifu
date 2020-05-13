@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spotifu/static/css/main.e2beea15.chunk.css",
+    "main.css": "/spotifu/static/css/main.f7ecc086.chunk.css",
     "main.js": "/spotifu/static/js/main.30ef172f.chunk.js",
     "main.js.map": "/spotifu/static/js/main.30ef172f.chunk.js.map",
     "runtime-main.js": "/spotifu/static/js/runtime-main.be855e04.js",
@@ -9,10 +9,10 @@
     "static/js/2.6f80ffed.chunk.js": "/spotifu/static/js/2.6f80ffed.chunk.js",
     "static/js/2.6f80ffed.chunk.js.map": "/spotifu/static/js/2.6f80ffed.chunk.js.map",
     "index.html": "/spotifu/index.html",
-    "precache-manifest.929e763651c147493296217e2fa2bde1.js": "/spotifu/precache-manifest.929e763651c147493296217e2fa2bde1.js",
+    "precache-manifest.97a451eda15b92c5787742c18ca02cb6.js": "/spotifu/precache-manifest.97a451eda15b92c5787742c18ca02cb6.js",
     "service-worker.js": "/spotifu/service-worker.js",
     "static/css/2.440ac8e8.chunk.css.map": "/spotifu/static/css/2.440ac8e8.chunk.css.map",
-    "static/css/main.e2beea15.chunk.css.map": "/spotifu/static/css/main.e2beea15.chunk.css.map",
+    "static/css/main.f7ecc086.chunk.css.map": "/spotifu/static/css/main.f7ecc086.chunk.css.map",
     "static/js/2.6f80ffed.chunk.js.LICENSE.txt": "/spotifu/static/js/2.6f80ffed.chunk.js.LICENSE.txt",
     "static/media/pm.mp3": "/spotifu/static/media/pm.659ef56b.mp3"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.be855e04.js",
     "static/css/2.440ac8e8.chunk.css",
     "static/js/2.6f80ffed.chunk.js",
-    "static/css/main.e2beea15.chunk.css",
+    "static/css/main.f7ecc086.chunk.css",
     "static/js/main.30ef172f.chunk.js"
   ]
 }
