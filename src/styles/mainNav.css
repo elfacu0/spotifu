@@ -1,0 +1,68 @@
+.mainNav {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(11, 11, 11);
+}
+.MainNavControllers {
+    display: flex;
+    filter: brightness(80%);
+}
+
+.controllersButtons {
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+}
+
+#nextButton {
+    transform: rotate(180deg);
+}
+
+.mainNavButtons {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 40px;
+}
+
+.mainNavButtons button {
+    width: 180px;
+    height: 38px;
+    border-radius: 500px;
+    font-weight: 600;
+    letter-spacing: 1.8px;
+    font-size: 13px;
+}
+
+.mainNavButtons #register {
+    background-color: transparent;
+    color: white;
+}
+
+.mainNavButtons #login {
+    background-color: white;
+    color: black;
+}
+
+#register:hover,
+#login:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.unavailable {
+    filter: brightness(30%);
+}
+
+@media only screen and (max-width: 600px) {
+    .mainNavButtons {
+        display: none;
+    }
+    .albumesContainer {
+        background: rgb(17, 17, 17);
+    }
+}

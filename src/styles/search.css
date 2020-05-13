@@ -1,0 +1,23 @@
+#search-genres {
+  margin-top: 20px;
+  width: 95%;
+  height: 100%;
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(186px, 1fr));
+  /* grid-template-rows: repeat(auto-fit, 186px); */
+  grid-auto-rows: minmax(min-content, max-content);
+}
+.search-container {
+  color: white;
+  height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
+  margin: 20px 0px 20px 20px;
+  display: flex;
+  justify-items: center;
+}
+.search-wrapper {
+  width: 100%;
+  height: 100%;
+}
