@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dcbba896e9988e08a8729b51e92d87f",
+    "revision": "0e9f892bc5b70063867a52b8445bfd4c",
     "url": "/spotifu/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotifu/static/css/2.440ac8e8.chunk.css"
   },
   {
-    "revision": "95687eb6a23bdd5d5ddd",
-    "url": "/spotifu/static/css/main.f7ecc086.chunk.css"
+    "revision": "1b4add4246e8888e9cd6",
+    "url": "/spotifu/static/css/main.24052c57.chunk.css"
   },
   {
     "revision": "43a06572e00acddbebc4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotifu/static/js/2.6f80ffed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95687eb6a23bdd5d5ddd",
-    "url": "/spotifu/static/js/main.30ef172f.chunk.js"
+    "revision": "1b4add4246e8888e9cd6",
+    "url": "/spotifu/static/js/main.88300c0c.chunk.js"
   },
   {
     "revision": "12114a988589a4de2d7a",
